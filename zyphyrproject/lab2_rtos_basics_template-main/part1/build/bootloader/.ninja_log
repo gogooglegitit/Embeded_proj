@@ -1,0 +1,7 @@
+# ninja log v6
+10	652	7610730365872495	CMakeFiles/boot_stage2.dir/f72824913d9a8bd58cdc2346b17af5b9/zyphyrproject/modules/hal/rpi_pico/src/rp2040/boot_stage2/boot2_w25q080.S.obj	6d4265804ef52518
+654	1507	7610730380618740	boot_stage2	f88c1b2eae920a6f
+654	1507	7610730380618740	boot_stage2.bin	f88c1b2eae920a6f
+654	1507	7610730380618740	boot_stage2.S	f88c1b2eae920a6f
+654	1507	7610730380618740	C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/bootloader/boot_stage2.bin	f88c1b2eae920a6f
+654	1507	7610730380618740	C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/bootloader/boot_stage2.S	f88c1b2eae920a6f

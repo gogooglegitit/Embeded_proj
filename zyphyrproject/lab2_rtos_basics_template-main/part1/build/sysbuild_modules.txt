@@ -1,0 +1,1 @@
+"mcuboot":"C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/bootloader/mcuboot":"C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/bootloader/mcuboot/boot/zephyr/sysbuild"

@@ -1,0 +1,94 @@
+{
+  "cmake" : 
+  {
+    "application" : 
+    {
+      "configuration-dir" : "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2",
+      "source-dir" : "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2"
+    },
+    "board" : 
+    {
+      "name" : "rpi_pico",
+      "path" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico"
+      ],
+      "qualifiers" : "rp2040",
+      "revision" : ""
+    },
+    "devicetree" : 
+    {
+      "bindings-dirs" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/bindings"
+      ],
+      "files" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico/rpi_pico.dts",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2/rpi_pico.overlay"
+      ],
+      "include-dirs" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/atmel/include",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/gigadevice/include",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/microchip/include",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/microchip/dts",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/nuvoton/dts",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/nxp/dts",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/stm32/dts",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/common",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/x86",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/xtensa",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/sparc",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/riscv",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/posix",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/nios2",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arm64",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arm",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arc",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts"
+      ],
+      "user-files" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2/rpi_pico.overlay"
+      ]
+    },
+    "kconfig" : 
+    {
+      "files" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico/rpi_pico_defconfig",
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2/prj.conf"
+      ],
+      "user-files" : 
+      [
+        "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2/prj.conf"
+      ]
+    },
+    "llext-edk" : 
+    {
+      "cflags" : "@YAML-LIST@;-DKERNEL;-D__ZEPHYR__=1;-D_ANSI_SOURCE;-D__LINUX_ERRNO_EXTENSIONS__;-D__PROGRAM_START;-DPICO_RP2040;-DK_HEAP_MEM_POOL_SIZE=0;-DLL_EXTENSION_BUILD;-fno-strict-aliasing;-Og;-imacros;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/zephyr/include/generated/zephyr/autoconf.h;-fno-common;-fdiagnostics-color=always;-mcpu=cortex-m0plus;-mthumb;-mabi=aapcs;-mfp16-format=ieee;-imacros;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/toolchain/zephyr_stdint.h;-Wall;-Wformat;-Wformat-security;-Wformat;-Wno-format-zero-length;-Wdouble-promotion;-Wno-pointer-sign;-Wpointer-arith;-Wexpansion-to-defined;-Wno-unused-but-set-variable;-Werror=implicit-int;-fno-asynchronous-unwind-tables;-fno-reorder-functions;--param=min-pagesize=0;-fno-defer-pop;-std=c99;-mlong-calls;-mthumb;-nodefaultlibs",
+      "file" : "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/zephyr/llext-edk.tar.xz",
+      "include-dirs" : "@YAML-LIST@;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/zephyr/include/generated/zephyr;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/zephyr/include/generated;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/soc/raspberrypi/rpi_pico;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/lib/libc/newlib/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/lib/libc/common/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/soc/raspberrypi/rpi_pico/common/.;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/soc/raspberrypi/rpi_pico/rp2040/.;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/cmsis/CMSIS/Core/Include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/modules/cmsis/.;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/common/pico_base_headers/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/boot_bootrom_headers/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_base/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_clocks/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_watchdog/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_xosc/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_pll/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_irq/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_sync/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_timer/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_resets/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_boot_lock/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_ticks/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_sync_spin_lock/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/pico_bootrom/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/pico_flash/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/pico_platform_compiler/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/pico_platform_sections/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/pico_platform_panic/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/common/boot_picoboot_headers/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/common/boot_picobin_headers/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2040/hardware_regs/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2040/hardware_structs/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2040/pico_platform/include;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/modules/hal_rpi_pico;C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/modules/hal/rpi_pico/src/rp2_common/hardware_gpio/include"
+    },
+    "toolchain" : 
+    {
+      "name" : "zephyr",
+      "path" : "C:/Users/axelo/zephyr-sdk-0.17.0"
+    },
+    "zephyr" : 
+    {
+      "version" : "4.0.99",
+      "zephyr-base" : "C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr"
+    }
+  },
+  "version" : "0.1.0",
+  "west" : 
+  {
+    "command" : "C:\\Users\\axelo\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\west build -p -b rpi_pico ./lab3_sensors_template-main/part2",
+    "topdir" : "C:\\Users\\axelo\\Documents\\Plugg\\Embeded1\\zyphyrproject",
+    "version" : "1.3.0"
+  }
+}

@@ -1,0 +1,13 @@
+# Target labels
+ second_stage_bootloader
+# Source files and their labels
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/CMakeFiles/second_stage_bootloader
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/CMakeFiles/second_stage_bootloader.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/CMakeFiles/second_stage_bootloader-complete.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-build.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-configure.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-download.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-install.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-mkdir.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-patch.rule
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab2_rtos_basics_template-main/part1/build/modules/hal_rpi_pico/second_stage_bootloader-prefix/src/second_stage_bootloader-stamp/second_stage_bootloader-update.rule

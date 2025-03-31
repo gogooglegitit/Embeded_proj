@@ -1,0 +1,5 @@
+west:
+  command: C:\Users\axelo\AppData\Local\Programs\Python\Python311\Scripts\west build
+    -p -b rpi_pico ./lab3_sensors_template-main/part2
+  topdir: C:\Users\axelo\Documents\Plugg\Embeded1\zyphyrproject
+  version: 1.3.0

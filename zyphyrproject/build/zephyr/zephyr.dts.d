@@ -1,0 +1,33 @@
+empty_file.o: \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/misc/empty_file.c \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico/rpi_pico.dts \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico/rpi_pico-common.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/common/freq.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arm/raspberrypi/rpi_pico/rp2040.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arm/armv6-m.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/common/skeleton.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/dt-util.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_macro.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_internal.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_loops.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_listify.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_internal_is_eq.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_internal_util_inc.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_internal_util_dec.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/sys/util_internal_util_x2.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/clock/rpi_pico_rp2040_clock.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/clock/rpi_pico_clock_common.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/regulator/rpi_pico.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/reset/rp2040_reset.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/common/mem.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/dts/arm/raspberrypi/rpi_pico/override.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/boards/raspberrypi/rpi_pico/rpi_pico-pinctrl.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/pinctrl/rpi-pico-rp2040-pinctrl.h \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/pinctrl/rpi-pico-pinctrl-common.h \
+ c:\users\axelo\documents\plugg\embeded1\zyphyrproject\zephyr\boards\raspberrypi\common\rpi_pico-pinctrl-common.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ c:\users\axelo\documents\plugg\embeded1\zyphyrproject\zephyr\boards\raspberrypi\common\rpi_pico-led.dtsi \
+ C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/lab3_sensors_template-main/part2/rpi_pico.overlay

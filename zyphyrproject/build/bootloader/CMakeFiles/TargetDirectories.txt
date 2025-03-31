@@ -1,0 +1,3 @@
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/bootloader/CMakeFiles/boot_stage2.dir
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/bootloader/CMakeFiles/edit_cache.dir
+C:/Users/axelo/Documents/Plugg/Embeded1/zyphyrproject/build/bootloader/CMakeFiles/rebuild_cache.dir

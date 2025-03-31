@@ -1,0 +1,4 @@
+west:
+  command: C:\Users\axelo\AppData\Local\Programs\Python\Python311\Scripts\west build
+  topdir: C:\Users\axelo\Documents\Plugg\Embeded1\zyphyrproject
+  version: 1.3.0
